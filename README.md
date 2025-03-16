@@ -2,20 +2,18 @@
 
 🚜 **Agricultural Engineer** by profession, but a **Data Scientist** by passion!  
 
-## 💻 Tech Stack 
-
-🐍 Python | 💾 SQL | 📊 Power BI | 🐳 Docker | 🔍 Data Analysis | 🏗 Data Engineering | 🤖 Machine Learning  
-
-
 ## 🎯 About Me  
 
-📍 I'm From **Chile**, based in **Santiago**.
+📍 I'm From **Chile** 🇨🇱, based in **Santiago**.
 
 💡 My current **Career Goal** is to land my **first tech job** and continue exploring the exciting world of **data** and **computer science**.  
 
 When I'm not crunching numbers, you can find me:  
 🎮 Gaming | 📖 Reading | ⚔️ Exploring Fantasy Worlds | 🏋️‍♂️ Enjoying Sports  
 
+## 💻 Tech Stack 
+
+🐍 Python | 💾 SQL | 📊 Power BI | 🔍 Data Analysis | 🏗 Data Engineering | 🤖 Machine Learning | 🐳 Docker   
 
 ## 🚀 My Projects  
 
