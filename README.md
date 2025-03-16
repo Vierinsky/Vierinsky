@@ -1,6 +1,6 @@
 # 👋 I'm Felipe Viera Klein!  
 
-🚜 **Agricultural Engineer** by profession, but a **Data Scientist** by passion!  
+🚜 **Agricultural Engineer** by profession and a **Data Scientist** by passion!  
 
 ## 🎯 About Me  
 
