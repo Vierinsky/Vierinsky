@@ -4,7 +4,7 @@
 
 ## 🎯 About Me  
 
-📍 I'm From **Chile** 🇨🇱, based in **Santiago**.
+📍 I'm From **Chile**, based in **Santiago**.
 
 💡 My current **Career Goal** is to land my **first tech job** and continue exploring the exciting world of **data** and **computer science**.  
 
