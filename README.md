@@ -19,7 +19,7 @@ When I'm not crunching numbers, you can find me:
 
 🔎 **Sentiment Analysis, Restaurant Recommendation System & Pizza Hut Dashboard**  
 📌 _Henry Bootcamp | Data & Cloud Engineering, Machine Learning, Data Analysis_  
-🔗 [GitHub Repo](https://github.com/MCozzari/Proyecto-FInal)  
+🔗 [GitHub Repo](https://github.com/Vierinsky/Proyecto_Final)  
 
 🎬 **Movie Recommendation System**  
 📌 _Henry Bootcamp | Machine Learning Operations_  
